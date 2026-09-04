@@ -1,3 +1,4 @@
+# PEP 8 style
 import random
 
 number = random.randint(1, 100)
